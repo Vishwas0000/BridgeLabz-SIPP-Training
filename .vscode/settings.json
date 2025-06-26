@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "java fundamentals",
+        "Strings",
+        "ProgrammingElements",
+        "Methods2",
+        "Methods",
+        "ClassObject",
+        "Arrays",
+        "ControlFlows"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.explorer.showNonJavaResources": true
+}
