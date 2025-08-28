@@ -10,6 +10,7 @@ public class Q1_CheckedExceptionDemo {
             }
         } catch (IOException e) {
             System.out.println("File not found");
+            e.printStackTrace();
         }
     }
 }
